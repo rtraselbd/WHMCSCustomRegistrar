@@ -1,8 +1,8 @@
-# WHMCS Custom Registrar WHMCS Module
+# RT Custom Registrar WHMCS Module
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-The `WHMCS Custom Registrar` module for WHMCS allows you to manage custom domain registrations and related services without the need for registrar APIs. This module stores user data in a database and sends notifications to administrators for manual updates based on user actions. It includes features such as domain registration, transfer, contact details management, nameserver management, DNS management, and IP protection toggling.
+The `RT Custom Registrar` module for WHMCS allows you to manage custom domain registrations and related services without the need for registrar APIs. This module stores user data in a database and sends notifications to administrators for manual updates based on user actions. It includes features such as domain registration, transfer, contact details management, nameserver management, DNS management, and IP protection toggling.
 
 ## Table of Contents
 
