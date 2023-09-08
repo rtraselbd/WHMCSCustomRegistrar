@@ -135,8 +135,8 @@ class RTCore
         try {
             $response = self::first('mod_RTCustomRegistrar', ['domainid' => $params['domainid']]);
             return json_decode($response->nameserver_data, true);
-        } catch (Exception $e) {
-            throw new Exception($e->getMessage());
+        } catch (\Exception $e) {
+            throw new \Exception($e->getMessage());
         }
     }
 
